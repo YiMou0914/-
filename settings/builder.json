@@ -1,0 +1,47 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.Recall",
+  "privateKey": "",
+  "startScene": "5f767c3f-f3ab-408f-ab7f-5d9b747e8e6b",
+  "title": "Recall",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx054944d1ab6b1968",
+    "orientation": "portrait",
+    "subContext": "subdomian"
+  },
+  "xxteaKey": "c72d4f95-ffa4-45",
+  "zipCompressJs": true,
+  "qqplay": {
+    "orientation": "portrait",
+    "zip": false,
+    "REMOTE_SERVER_ROOT": ""
+  },
+  "fb-instant-games": {},
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "pathPattern": "",
+    "scheme": "https",
+    "host": "",
+    "skipRecord": false,
+    "recordPath": ""
+  }
+}
